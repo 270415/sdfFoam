@@ -1,5 +1,7 @@
 # sdfFoam
 An easy solver for calculating sign distance function (SDF) on given mesh based on defined patch.
+![4c0132a137d0f731089d3688e4efc3c](https://github.com/picpic117/sdfFoam/assets/113087331/2ee18537-b0ac-4489-a573-b2cb866dc23b)
+
 
 ### 1.Download the source code
 - `git clone https://github.com/picpic117/sdfFoam.git`
