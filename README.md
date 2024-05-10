@@ -1,8 +1,8 @@
 # sdfFoam
 An easy solver for calculating SDF function on given mesh.
-- `git clone https://github.com/picpic117/sdfFoam.git`
 
 ### 1.Download the source code
+- `git clone https://github.com/picpic117/sdfFoam.git`
 
 ### 2.To use sdfFoam, follow these steps:
 
